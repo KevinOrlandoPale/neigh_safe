@@ -2,7 +2,6 @@ import React from 'react'
 import LoginForm from './LoginForm'
 import Image from 'next/image'
 
-
 export default function Login() {
   return (
     <div className='bg-gray-950 w-screen h-screen flex justify-center items-center'>
